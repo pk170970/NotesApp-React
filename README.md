@@ -4,7 +4,7 @@ This project of javascript is made from pure HTML,CSS and Javascript.
 
 ## Links
 
-[Live](mynoteskeeperapp.netlify.app)
+[Live](https://www.pratyushnoteskeeperapp.netlify.app)
 
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
